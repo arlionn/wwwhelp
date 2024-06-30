@@ -2,7 +2,7 @@
 
 ## ihelp and wwwhelp commands
 
-> Chen Yongli, Lian Yujun.Browse and cite Stata manuals easily: the wwwhelp command. **Stata Journal**, 2024, 24 (1): 161–168. [-PDF-](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/Chen-Lian-2024-SJ-wwwhelp-ihelp.pdf), [Link](https://doi.org/10.1177/1536867X241233676), [Google](<https://scholar.google.com/scholar?q=Browse and cite Stata manuals easily: The wwwhelp command>), [-Appendix-](https://github.com/arlionn/wwwhelp/blob/main/docs/Chen-Lian-2024-wwwhelp-SJ-online_appendix.pdf)
+> Chen Yongli, Lian Yujun. Browse and cite Stata manuals easily: the wwwhelp command. **Stata Journal**, 2024, 24 (1): 161–168. [-PDF-](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/Chen-Lian-2024-SJ-wwwhelp-ihelp.pdf), [Link](https://doi.org/10.1177/1536867X241233676), [Google](<https://scholar.google.com/scholar?q=Browse and cite Stata manuals easily: The wwwhelp command>), [-Appendix-](https://github.com/arlionn/wwwhelp/blob/main/docs/Chen-Lian-2024-wwwhelp-SJ-online_appendix.pdf)
 
 Note: This document is transfered from **ihelp.sthlp** using ChatGPT 4o. [Click here](https://chatgpt.com/share/98f90cfa-5890-463b-9fd6-a4ed89724234) to view the Prompts.
 
@@ -186,7 +186,7 @@ You can view the stored results through `return list` (see `help return`) after 
 
 ## Citation
 
-- Chen Yongli, Lian Yujun.Browse and cite Stata manuals easily: the wwwhelp command. **Stata Journal**, 2024, 24 (1): 161–168. [-PDF-](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/Chen-Lian-2024-SJ-wwwhelp-ihelp.pdf), [Link](https://doi.org/10.1177/1536867X241233676), [Google](<https://scholar.google.com/scholar?q=Browse and cite Stata manuals easily: The wwwhelp command>), [-Appendix-](https://github.com/arlionn/wwwhelp/blob/main/docs/Chen-Lian-2024-wwwhelp-SJ-online_appendix.pdf)
+- Chen Yongli, Lian Yujun. Browse and cite Stata manuals easily: the wwwhelp command. **Stata Journal**, 2024, 24 (1): 161–168. [-PDF-](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/Chen-Lian-2024-SJ-wwwhelp-ihelp.pdf), [Link](https://doi.org/10.1177/1536867X241233676), [Google](<https://scholar.google.com/scholar?q=Browse and cite Stata manuals easily: The wwwhelp command>), [-Appendix-](https://github.com/arlionn/wwwhelp/blob/main/docs/Chen-Lian-2024-wwwhelp-SJ-online_appendix.pdf)
 
 
 

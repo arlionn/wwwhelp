@@ -1,3 +1,5 @@
+
+
 ## ihelp and wwwhelp commands
 
 > Chen Yongli, **Lian Yujun***.Browse and cite Stata manuals easily: the wwwhelp command. **Stata Journal**, 2024, 24 (1): 161–168. [-PDF-](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/Chen-Lian-2024-SJ-wwwhelp-ihelp.pdf), [Link](https://doi.org/10.1177/1536867X241233676), [Google](<https://scholar.google.com/scholar?q=Browse and cite Stata manuals easily: The wwwhelp command>), [-Appendix-](https://github.com/arlionn/wwwhelp/blob/main/docs/Chen-Lian-2024-wwwhelp-SJ-online_appendix.pdf)
@@ -7,19 +9,21 @@ Note: This document is transfered from **ihelp.sthlp** using ChatGPT 4o. [Click 
 
 ## Description
 
+### What is ihelp/wwwhelp?
+
 `ihelp` is a wrapper for the `help` command, offering a quick and convenient way to access online **HTML** or **PDF** versions of Stata's official **help files**. `ihelp` is a shorter version of `wwwhelp`, offering the same functionality but easier to remember and type. 
 
 - Simply type `ihelp xtreg`, and Stata will open [xtreg.pdf](https://www.stata.com/manuals/xtxtreg.pdf).
 - Type `ihelp xtreg, md`, and it will generate and copy the Markdown text `[**[XT]** xtreg](https://www.stata.com/manuals/xtxtreg.pdf)` to your clipboard. You can then paste it into your Markdown editor with `Ctrl+V`.
 
-### why ihelp?
+### Why ihelp?
 The default `help` command in Stata only displays help files within the Stata interface, which is not ideal for sharing. `ihelp` allows these files to be accessed and used outside of Stata. 
 
 `ihelp` also offers various formatting options, including `markdown`, `txt`, `ms`, `latex`, `texfull`, and `format(#)`. These formats provide web links to the online help files and automatically copy the desired format to the clipboard. Additionally, `ihelp` can handle command abbreviations and list similar commands when an abbreviation is ambiguous.
 
 In short, just add `i` or `www` before `help`, and you can enjoy Stata's extensive help resources online.
 
-### Install
+## Install
 
 The `ihelp` command can be installed from SSC, while `wwwhelp` is hosted on the Stata Journal server. 
 

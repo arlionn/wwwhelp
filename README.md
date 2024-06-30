@@ -11,7 +11,7 @@ Note: This document is transfered from **ihelp.sthlp** using ChatGPT 4o. [Click 
 
 ### What is ihelp/wwwhelp?
 
-`ihelp` is a wrapper for the `help` command, offering a quick and convenient way to access online **HTML** or **PDF** versions of Stata's official **help files**. `ihelp` is a shorter version of `wwwhelp`, offering the same functionality but easier to remember and type. 
+`ihelp` is a sister of Stata's `help` command, providing a fast and easy way to access the online **HTML** or **PDF** versions of Stata's official **help files**. `ihelp` is a shorter and easier-to-remember version of `wwwhelp`, with the same functionality.
 
 - Simply type `ihelp xtreg`, and Stata will open [xtreg.pdf](https://www.stata.com/manuals/xtxtreg.pdf).
 - Type `ihelp xtreg, md`, and it will generate and copy the Markdown text `[**[XT]** xtreg](https://www.stata.com/manuals/xtxtreg.pdf)` to your clipboard. You can then paste it into your Markdown editor with `Ctrl+V`.

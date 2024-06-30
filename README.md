@@ -1,5 +1,3 @@
-[toc]
-
 ## ihelp and wwwhelp commands
 
 > Chen Yongli, **Lian Yujun***.Browse and cite Stata manuals easily: the wwwhelp command. **Stata Journal**, 2024, 24 (1): 161–168. [-PDF-](https://file-lianxh.oss-cn-shenzhen.aliyuncs.com/Refs/LianPub/Chen-Lian-2024-SJ-wwwhelp-ihelp.pdf), [Link](https://doi.org/10.1177/1536867X241233676), [Google](<https://scholar.google.com/scholar?q=Browse and cite Stata manuals easily: The wwwhelp command>), [-Appendix-](https://github.com/arlionn/wwwhelp/blob/main/docs/Chen-Lian-2024-wwwhelp-SJ-online_appendix.pdf)
